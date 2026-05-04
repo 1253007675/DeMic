@@ -1,0 +1,58 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio 缓存/编译输出
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.aps
+*.user
+*.suo
+*.ilk
+*.pdb
+/packages
+
+# vcpkg 依赖
+/vcpkg_installed
+/WebRemote/vcpkg_installed
+
+# VS Code 配置
+.vscode/
+
+# 证书/密钥
+*.pem
+
+# 日志文件
+*.log
